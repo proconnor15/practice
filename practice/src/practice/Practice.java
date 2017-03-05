@@ -16,7 +16,7 @@ public class Practice {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Yolo");
+        System.out.println("My name is Bullfrog!");
     }
     
 }
